@@ -11,7 +11,7 @@
 
   <h3>💕👩‍💻 Me</h3>  
   
-  🌱 I’m currently learning to become a necessary developer.  
+  🌱 I’m currently learning to become a growing developer.  
     
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frulru23%2Fhit-counter&count_bg=%23FF9DE7&title_bg=%23FF35DF&icon=&icon_color=%23FF4DBC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
